@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <!-- The Basics -->
-  <groupId>CI_Fibonacci</groupId>
-  <artifactId>CI_Fibonacci</artifactId>
+  <groupId>Fibonacci</groupId>
+  <artifactId>Fibonacci</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <dependencies>
