@@ -21,9 +21,9 @@ public class FibonacciUI {
 			System.out.println("Enter Integer to Calculate Fibonacci value, or q to quit:");
 			String inputString;
 			try {
-				inputString = br.readLine()
+				inputString = br.readLine();
 			} catch (IOException e) {
-				System.err.println("Read failed.")
+				System.err.println("Read failed.");
 				keepRunning = false;
 				continue;
 			}
